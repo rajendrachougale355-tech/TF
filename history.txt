@@ -1,0 +1,222 @@
+   1  cd
+    2  exit
+    3  git clone https://github.com/rajendrachougale355-tech/raj-docker.git
+    4  ls
+    5  cd Docd ..
+    6  cd
+    7  .
+    8  ls
+    9  cd raj-docker/
+   10  ls
+   11  ls
+   12  ls
+   13  exit
+   14  git -v
+   15  git clone https://github.com/rajendrachougale355-tech/TF.git
+   16  ls
+   17  cd TF/
+   18  LS
+   19  touch newproject.txt
+   20  ls
+   21  vi newproject.txt
+   22  cat newproject.txt
+   23  git push main
+   24  git branch
+   25  git branch dev
+   26  git branch
+   27  git switch dev
+   28  git branch
+   29  git merge branch
+   30  git push remote origin
+   31  git config --global --list
+   32  git config --global user.name "raj"
+   33  git config --global user.email "rajchougale@gmail.com"
+   34  git config --global --list
+   35  ls
+   36  pwd
+   37  gti status
+   38  git status
+   39  git add .
+   40  git commit -m "1st commit "
+   41  git status
+   42  lear
+   43  git add newproject.txt
+   44  \
+   45  git add newproject.txt
+   46  git status
+   47  git commit -m "2nd commit "
+   48  ls
+   49  touch index.txt (1,2,3,4,)
+   50  touch index.txt raj.txt
+   51  ls
+   52  gti status
+   53  git status
+   54  git add index.txt
+   55  git add raj.txt
+   56  git status
+   57  git commit -m "2nd commit 1 "
+   58  git status
+   59  git log --oneline
+   60  git log
+   61  git push
+   62  git push --set-upstream origin dev
+   63  git push --set-upstream origin dev
+   64  git push
+   65  git branch
+   66  git swtch branch
+   67  git switch branch
+   68  git push
+   69  git switch branch main
+   70  git switch main
+   71  git branch
+   72  git push
+   73  git push
+   74  git push
+   75  git push origin main
+   76  git switch dev
+   77  git push
+   78  git branch
+   79  git switch main
+   80  git branch stage
+   81  git branch
+   82  git switch stage
+   83  touch ram.txt
+   84  ls
+   85  git push
+   86  git push origin stage
+   87  touch ram.txt lakhan.txt
+   88  ls
+   89  git push
+   90  git push origin stage
+   91  ls
+   92  git status
+   93  git Add .
+   94  git add
+   95  git add .
+   96  git commit -m "new"
+   97  ls
+   98  git status
+   99  git push origin stage
+  100  git push
+  101  git push origin stage
+  102  git pull
+  103  git push origin stage
+  104  git push origin stage --force
+  105  touch file{1...6}.txt
+  106  ls
+  107  touch file{1..6}.txt
+  108  ls
+  109  git status
+  110  git add .
+  111  git commit -m"latest"
+  112  git switch dev
+  113  git branch
+  114  git rebase stage
+  115  ls
+  116  git push
+  117  git pull
+  118  git pull origin dev
+  119  git push origin dev
+  120  ls
+  121  git switch dev
+  122  git switch main
+  123  ls
+  124  git fetch
+  125  ls
+  126  git pull
+  127  ls
+  128  touch 123.txt
+  129  ls
+  130  git status
+  131  git add .
+  132  git commit -m "1234"
+  133  git log --oneline
+  134  git cherry-pick 8119c48
+  135  git switch dev
+  136  git cherry-pick --quit"
+  137  git cherry-pick --quit
+  138  git switch dev
+  139  ls
+  140  git cherry-pick 8119c48
+  141  ls
+  142  histoy
+  143  history
+  144  vi 123.txt
+  145  vi 123.txt
+  146  git status
+  147  git add .
+  148  git commit -m "new1"
+  149  git push
+  150  git branch
+  151  ls
+  152  git rm -rf .
+  153  ls
+  154* git br
+  155  git add .
+  156  git commit -m "new10"
+  157  git push origin dev
+  158*
+  159  git switch main
+  160  git rebase stage
+  161  ls
+  162  git switch dev
+  163  ls
+  164  git rebase main
+  165  ls
+  166  git switch main
+  167  git rebase dev
+  168  ls
+  169  git switch dev
+  170  ls
+  171  git rebase stage
+  172  ls
+  173  git switch stage
+  174  ls
+  175  git add .
+  176  git commit -m "new10"
+  177  git status
+  178  git config --global --list
+  179  git branch -b feature
+  180  git switch -b feature
+  181  git checkout -b feature
+  182  git branch
+  183  ls
+  184  touch 123.txt
+  185  git add .
+  186  git status
+  187  git restore --staged 123.txt
+  188  git status
+  189  git switch dev
+  190  ls
+  191  git rebase feature
+  192  ls
+  193  git switch feature
+  194  l
+  195  ls
+  196  git rebase feature
+  197  git rebase dev
+  198  ls
+  199  git add .
+  200  git commit -m "Re-added files after rebase"
+  201  git push origin feature
+  202  ls
+  203  git add  README.md  file1.txt  file2.txt  file3.txt  file4.txt  file5.txt  file6.txt  file{1...6}.txt  lakhan.txt  ram.txt
+  204  ls
+  205  git commit -m "Re-added files after rebase"
+  206  ls
+  207  git push origin feature
+  208  ls
+  209  git status
+  210  git add file1.txt  file2.txt  file3.txt  file4.txt  file5.txt  file6.txt  file{1...6}.txt  lakhan.txt  ram.txt
+  211  git log --stat
+  212  git checkout 211ea8826c8229aaf04b5101f2aa0997ddc95ce2 -- file1.txt file2.txt
+  213  git switch dev
+  214  ls
+  215  git checkout 211ea8826c8229aaf04b5101f2aa0997ddc95ce2 -- file1.txt file2.txt
+  216  git log
+  217  gti switch main
+  218  git switch main
+  219  ls
+  220  git pull origin main
+  221  ls
+  222  history
